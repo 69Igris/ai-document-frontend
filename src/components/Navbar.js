@@ -107,7 +107,7 @@ const Navbar = () => {
                 <li>Question answering for PDF documents</li>
                 <li>JWT authentication</li>
               </ul>
-              <p className="text-gray-600">Created by Nakul</p>
+              <p className="text-gray-600">Created by Aaryan</p>
             </div>
           </div>
         </div>
